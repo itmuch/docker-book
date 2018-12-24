@@ -1,18 +1,18 @@
 # Docker与Kubernetes开源书
 
-我的第二本开源书。之前写的《Spring Cloud开源书》，有兴趣的可详见：
+我的第二本开源书。本书地址：
 
-* <http://www.gitee.com/itmuch/spring-cloud-book>
-* <http://www.github.com/eacdy/spring-cloud-book>
+* Gitee：<https://gitee.com/itmuch/docker-book>
+* GitHub：<https://github.com/itmuch/docker-book>
 
+之前写的《Spring Cloud开源书》，有兴趣的可详见：
 
-
-Docker开源书，包含两部分：
-
-* Docker
-* Kubernetes
+* Gitee：<https://www.gitee.com/itmuch/spring-cloud-book>
+* GitHub：<https://www.github.com/eacdy/spring-cloud-book>
 
 
+
+本开源书，包含两部分：
 
 ## Docker
 
