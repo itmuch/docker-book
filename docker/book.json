@@ -1,0 +1,10 @@
+{
+	"title" : "Docker开源书",
+    "description" : "实战Docker",
+    "author" : "周立",
+	"links": {
+	    "sidebar" : {
+			"博客": "http://www.itmuch.com"
+		}
+    }
+}
