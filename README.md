@@ -51,7 +51,7 @@ Kubernetes部分，是个人学习Kubernetes时，对官方文档的翻译。在
 
 ## 如何使用
 
-- 方法一、懒人用法：直接下载根目录的`Docker.pdf` 、`Kubernetes.pdf` 阅读；
+- 方法一、懒人用法：直接下载根目录的`Docker开源书.pdf` 、`Kubernetes开源书.pdf` 阅读；
 - 方法二、将代码clone到本地后，使用Typora或Atom等Markdown阅读软件进行阅读；
 - 方法三、前往<http://www.itmuch.com/categories/Docker/> 阅读
 
