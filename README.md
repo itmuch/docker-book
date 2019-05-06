@@ -1,7 +1,5 @@
 # Docker与Kubernetes开源书
 
-我的第二本开源书。本书地址：
-
 * Gitee：<https://gitee.com/itmuch/docker-book>
 * GitHub：<https://github.com/itmuch/docker-book>
 
@@ -10,6 +8,11 @@
 * Gitee：<https://www.gitee.com/itmuch/spring-cloud-book>
 * GitHub：<https://www.github.com/eacdy/spring-cloud-book>
 
+
+欢迎star、fork，一起讨论！
+
+* QQ群：731548893
+* 微信群：加jumping_me，注明加群。
 
 
 本开源书，包含两部分：
@@ -51,7 +54,7 @@ Kubernetes部分，是个人学习Kubernetes时，对官方文档的翻译。在
 
 ## 如何使用
 
-- 方法一、懒人用法：直接下载根目录的`Docker.pdf` 、`Kubernetes.pdf` 阅读；
+- 方法一、懒人用法：直接下载根目录的`Docker开源书.pdf` 、`Kubernetes开源书.pdf` 阅读；
 - 方法二、将代码clone到本地后，使用Typora或Atom等Markdown阅读软件进行阅读；
 - 方法三、前往<http://www.itmuch.com/categories/Docker/> 阅读
 
